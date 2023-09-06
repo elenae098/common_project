@@ -1,0 +1,29 @@
+body {
+    color: black;
+    background-color: #E99AAA;
+}
+h2 {
+    font-family: "Comic Sans MS";
+    color: #650417;
+    font-size: 50px;
+    text-align: center;
+}
+h3 {
+    font-family: "Comic Sans MS";
+    color: #650417;
+    font-size: 30px;
+}
+p {
+    line-height: 30px;
+}
+ul ol {
+    display: inline-block;
+    margin-left: 50px;
+}
+
+img {
+    border: 5px solid white;
+    padding: 10px;
+    margin: 20px;
+    border-top-right-radius: 30px;
+}
